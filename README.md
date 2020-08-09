@@ -3,7 +3,7 @@ The Mitigating of Disabilities project is one I developed in hopes that it would
 
 # Demonstration
 Prototype 
-![Demo](https://github.com/Mireya-Hernandez/Residential-Connection/blob/master/uh8nqg9TAW.gif)
+![Demo](https://i.imgur.com/GqJBVYh.gif)
 
 # Author
 Mireya Hernandez Cruz
